@@ -18,6 +18,6 @@ Text Input:
     - Orientation input should be either a 'v'/'V', or 'h'/'H'
     
 ## Todo
-# Smart AI
-# Human vs Human
-# Prompt for selecting Human vs Human, AI vs AI, Human vs AI
+<p> Smart AI </p>
+<p> Human vs Human </p>
+<p> Prompt for selecting Human vs Human, AI vs AI, Human vs AI</p>
