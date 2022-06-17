@@ -16,3 +16,8 @@ Menu Navigation:
 Text Input:
     - Coordinate input should be [Row][Column]. Ex. A2
     - Orientation input should be either a 'v'/'V', or 'h'/'H'
+    
+## Todo
+Smart AI
+Human vs Human
+Prompt for selecting Human vs Human, AI vs AI, Human vs AI
